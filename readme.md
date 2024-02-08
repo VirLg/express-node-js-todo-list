@@ -1,5 +1,9 @@
 ## uk
 
+Для ініціалізації проєкта потрібно виконати в консолі команду:
+
+## npm i
+
 Для запуску коду використовуємо в консолі скрипт:
 
 ## run start:dev
@@ -22,6 +26,10 @@
 ---
 
 ## en
+
+To initialize the project, execute the following command in the console:
+
+## npm i
 
 To run the code, use the script in the console:
 
