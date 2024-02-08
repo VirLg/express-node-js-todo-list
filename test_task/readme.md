@@ -6,7 +6,7 @@
 
 Для запуску коду використовуємо в консолі скрипт:
 
-## npm run start:dev
+## run start:dev
 
 Додаток Todo працює по таких маршрутах:
 
@@ -33,7 +33,7 @@ To initialize the project, execute the following command in the console:
 
 To run the code, use the script in the console:
 
-## npm run start:dev
+## run start:dev
 
 The Todo app works on the following routes:
 
